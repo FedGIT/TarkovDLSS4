@@ -72,3 +72,10 @@ Step 6: Launch Nividia Profile Inspector
 
 
 ![2](https://github.com/user-attachments/assets/c6a5e039-3d36-4514-9acc-4788d11337da)
+
+FINAL: 
+
+open regedit, go to HKEY/LOCAL_MACHINE/SOFTWARE/NVIDIA Corporation/Global/NGXCore
+
+then right click to make a new DWORD named “ShowDlssIndicator”. edit its value and enter 1024 in decimal
+
