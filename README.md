@@ -30,6 +30,14 @@ Thus being said this new feature is a great step in the right direction for them
 
 **How-To:**
 
-**BEFORE DOING ANYTHING TO YOUR PC MAKE A RESTORE POINT ALWAYS!!!!!** (I cannot emphasize that enough) 
+**BEFORE DOING ANYTHING TO YOUR PC MAKE A RESTORE POINT ALWAYS!!!!!** (I cannot emphasize this enough) 
 
 https://support.microsoft.com/en-us/windows/system-protection-e9126e6e-fa64-4f5f-874d-9db90e57645a
+
+Step 1: Download your driver via the Nvidia site or use NVCleanstall as it has a downloader for current drivers built in
+(for my own safety as well as not being liable for breaking anyones system I will NOT go into detail about how to debloat the drivers with either piece of software)
+
+Step 2: Download DDU 
+
+Step 3: Reboot into safe mode - 
+Access The Windows Recovery Environment - Hold shift on your keyboard while performing a restart within windows and hold it down until you see you PCs or Windows 11 splash screen
