@@ -44,3 +44,6 @@ Step 3: Reboot into safe mode -
 To Access The Windows Recovery Environment - Hold shift on your keyboard while performing a restart within windows and hold it down until you see you PCs or Windows 11 splash screen
 
 ![WinREtoSafemode](https://github.com/user-attachments/assets/c646d48a-21ff-4ef2-ae61-ba636f15a3e8)
+
+![DDU](https://github.com/user-attachments/assets/55c5d26e-d20b-4155-8722-d543a9df32b2)
+
