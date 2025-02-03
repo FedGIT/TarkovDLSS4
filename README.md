@@ -31,3 +31,4 @@ Thus being said this new feature is a great step in the right direction for them
 **How-To:**
 
 **BEFORE DOING ANYTHING TO YOUR PC MAKE A RESTORE POINT ALWAYS!!!!!** (I cannot emphasize that enough) 
+IF YOU DO NOT KNOW HOW TO DO THAT - https://support.microsoft.com/en-us/windows/system-protection-e9126e6e-fa64-4f5f-874d-9db90e57645a
