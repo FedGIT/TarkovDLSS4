@@ -30,7 +30,7 @@ Thus being said this new feature is a great step in the right direction for them
 
 **How-To:**
 
-**BEFORE DOING ANYTHING TO YOUR PC MAKE A RESTORE POINT ALWAYS!!!!!** (I cannot emphasize this enough) 
+**BEFORE DOING ANYTHING TO YOUR PC MAKE A RESTORE POINT ALWAYS!!!!!** (I cannot emphasize this enough). Take any screenshots of your current NVControl Panel settings if needed.
 
 https://support.microsoft.com/en-us/windows/system-protection-e9126e6e-fa64-4f5f-874d-9db90e57645a
 
@@ -45,4 +45,8 @@ To Access The Windows Recovery Environment - Hold shift on your keyboard while p
 
 ![WinREtoSafemode](https://github.com/user-attachments/assets/c646d48a-21ff-4ef2-ae61-ba636f15a3e8)
 
+Step 4: Run DDU and perform a clean driver removal (this will remove all nvidia components) without restarting
+
 ![DDU](https://github.com/user-attachments/assets/381d4d23-941c-454c-a09e-18b8bcde8ee0)
+
+Step 5: Install the newly downloaded or debloated drivers you have on hand once installed you are good to reboot your PC back into the normal windows 11 environment
