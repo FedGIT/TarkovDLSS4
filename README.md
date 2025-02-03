@@ -49,4 +49,18 @@ Step 4: Run DDU and perform a clean driver removal (this will remove all nvidia 
 
 ![DDU](https://github.com/user-attachments/assets/381d4d23-941c-454c-a09e-18b8bcde8ee0)
 
-Step 5: Install the newly downloaded or debloated drivers you have on hand once installed you are good to reboot your PC back into the normal windows 11 environment
+Step 5: Install the newly downloaded or debloated drivers you have on hand once installed reboot into the normal windows environment
+
+Step 6: Launch Nividia Profile Inspector
+
+6.a: Click the magnifying glass icon at the top of the program
+
+![1](https://github.com/user-attachments/assets/1372604f-d65e-44f4-9681-a2355422b580)
+
+6.b: Push Ctrl+F and look up the word "Over"
+  Under the "Other" section you will see the "Override" switches
+  **TARKOV ONLY SUPPORTS SUPER RESOLUTION**
+  Thus being said Override DLSS-SR presets and Enable DLSS-SR override are the only two switches we will adjust
+  **ALSO WE ARE CHANGING THESE UNDER THE GLOBAL PROFILE THIS WILL CHANGE DLSS IN ALL GAMES SUPPORTING DLSS**
+
+![2](https://github.com/user-attachments/assets/c6a5e039-3d36-4514-9acc-4788d11337da)
