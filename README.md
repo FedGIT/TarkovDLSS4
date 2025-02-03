@@ -16,7 +16,7 @@ https://www.majorgeeks.com/files/details/nvslimmer.html
 
 
 
-**CURRENT/LATEST** NVIDIA DRIVER (572.16 or later) - https://www.nvidia.com/en-us/geforce/drivers/
+**CURRENT/LATEST NVIDIA DRIVER (572.16 or later)** - https://www.nvidia.com/en-us/geforce/drivers/
 
 
 
