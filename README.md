@@ -40,4 +40,5 @@ Step 1: Download your driver via the Nvidia site or use NVCleanstall as it has a
 Step 2: **Download DDU**
 
 Step 3: Reboot into safe mode - 
-Access The Windows Recovery Environment - Hold shift on your keyboard while performing a restart within windows and hold it down until you see you PCs or Windows 11 splash screen
+
+To Access The Windows Recovery Environment - Hold shift on your keyboard while performing a restart within windows and hold it down until you see you PCs or Windows 11 splash screen
