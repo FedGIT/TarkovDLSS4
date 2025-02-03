@@ -30,4 +30,4 @@ Thus being said this new feature is a great step in the right direction for them
 
 **How-To:**
 
-*BEFORE DOING ANYTHING TO YOUR PC MAKE A RESTORE POINT ALWAYS!!!!!** (I cannot emphasize that enough) 
+**BEFORE DOING ANYTHING TO YOUR PC MAKE A RESTORE POINT ALWAYS!!!!!** (I cannot emphasize that enough) 
