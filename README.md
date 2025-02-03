@@ -7,9 +7,7 @@ Guide on how to implement DLSS 4 in tarkov WITHOUT Nvidia App
 
 
 **Nvcleanstall or NVslimmer** - 
-
 https://www.techpowerup.com/download/techpowerup-nvcleanstall/ 
-
 https://www.majorgeeks.com/files/details/nvslimmer.html
 
 
