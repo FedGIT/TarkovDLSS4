@@ -73,9 +73,26 @@ Step 6: Launch Nividia Profile Inspector
 
 ![2](https://github.com/user-attachments/assets/c6a5e039-3d36-4514-9acc-4788d11337da)
 
-FINAL: 
+FINAL: To check if everything worked you can enable the DLSS indicator and check the version and preset (DLSS 4 is version 310.2.1)
 
-open regedit, go to HKEY/LOCAL_MACHINE/SOFTWARE/NVIDIA Corporation/Global/NGXCore
+![3](https://github.com/user-attachments/assets/9a3511cf-1367-4c48-9584-e2414b1550c2)
 
-then right click to make a new DWORD named “ShowDlssIndicator”. edit its value and enter 1024 in decimal
 
+Show_DLSS_Indicator_ON.reg
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\NGXCore]
+"Installed"=dword:00000001
+"ShowDlssIndicator"=dword:00000400
+
+
+Show_DLSS_Indicator_OFF.reg
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\NGXCore]
+"Installed"=dword:00000001
+"ShowDlssIndicator"=dword:00000000
+
+open notepad copy one of the bodies and save it by the title to enable and disable it. PC Restart maybe required inbetween.
