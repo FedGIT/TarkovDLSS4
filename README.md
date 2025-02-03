@@ -78,7 +78,7 @@ FINAL: To check if everything worked you can enable the DLSS indicator and check
 ![3](https://github.com/user-attachments/assets/9a3511cf-1367-4c48-9584-e2414b1550c2)
 
 
-Show_DLSS_Indicator_ON.reg
+**Show_DLSS_Indicator_ON.reg**
 
 Windows Registry Editor Version 5.00
 
@@ -87,7 +87,7 @@ Windows Registry Editor Version 5.00
 "ShowDlssIndicator"=dword:00000400
 
 
-Show_DLSS_Indicator_OFF.reg
+**Show_DLSS_Indicator_OFF.reg**
 
 Windows Registry Editor Version 5.00
 
