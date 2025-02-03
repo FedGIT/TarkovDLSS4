@@ -45,5 +45,4 @@ To Access The Windows Recovery Environment - Hold shift on your keyboard while p
 
 ![WinREtoSafemode](https://github.com/user-attachments/assets/c646d48a-21ff-4ef2-ae61-ba636f15a3e8)
 
-![DDU](https://github.com/user-attachments/assets/55c5d26e-d20b-4155-8722-d543a9df32b2)
-
+![DDU](https://github.com/user-attachments/assets/381d4d23-941c-454c-a09e-18b8bcde8ee0)
