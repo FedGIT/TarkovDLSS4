@@ -13,7 +13,11 @@ https://www.techpowerup.com/download/techpowerup-nvcleanstall/
 
 https://www.majorgeeks.com/files/details/nvslimmer.html
 
+
+
 **Nvidia Profile Inspector** - https://github.com/Orbmu2k/nvidiaProfileInspector/releases
+
+
 
 **CURRENT/LATEST** NVIDIA DRIVER (572.16 or later) - https://www.nvidia.com/en-us/geforce/drivers/
 
