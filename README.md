@@ -42,3 +42,4 @@ Step 2: **Download DDU**
 Step 3: Reboot into safe mode - 
 
 To Access The Windows Recovery Environment - Hold shift on your keyboard while performing a restart within windows and hold it down until you see you PCs or Windows 11 splash screen
+![WinREtoSafemode](https://github.com/user-attachments/assets/c646d48a-21ff-4ef2-ae61-ba636f15a3e8)
