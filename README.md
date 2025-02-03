@@ -63,8 +63,12 @@ Step 6: Launch Nividia Profile Inspector
  
   **TARKOV ONLY SUPPORTS SUPER RESOLUTION**
   
-  Thus being said Override DLSS-SR presets and Enable DLSS-SR override are the only two switches we will adjust
+  Thus being said "Override DLSS-SR presets" and "Enable DLSS-SR override" are the only two switches we will adjust
   
   **ALSO WE ARE CHANGING THESE UNDER THE GLOBAL PROFILE THIS WILL CHANGE DLSS IN ALL GAMES SUPPORTING DLSS**
+
+  **NOTE:**
+  The Override DLSS-SR presets - 0x0000000B **FORCES** DLSS TO THE NEW K PRESET
+
 
 ![2](https://github.com/user-attachments/assets/c6a5e039-3d36-4514-9acc-4788d11337da)
