@@ -3,7 +3,6 @@ Guide on how to implement DLSS 4 in tarkov WITHOUT Nvidia App
 
 **Prerequisites:**
 
-
 **DDU (Display Driver Uninstaller)** - https://www.wagnardsoft.com/display-driver-uninstaller-DDU-
 
 
